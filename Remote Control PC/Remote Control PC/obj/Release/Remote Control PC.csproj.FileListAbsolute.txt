@@ -1,0 +1,11 @@
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Release\Remote Control PC.exe.config
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Release\Remote Control PC.exe
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Release\Remote Control PC.pdb
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Release\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote_Control_PC.EmptyForm.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote_Control_PC.QRCodeForm.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote_Control_PC.Properties.Resources.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote Control PC.csproj.GenerateResource.Cache
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote Control PC.exe
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Release\Remote Control PC.pdb

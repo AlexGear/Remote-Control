@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ALEXEY-PC</Machine>
+    <WindowsUser>Алексей</WindowsUser>
+    <TargetPlatformIdentifier>Windows Phone</TargetPlatformIdentifier>
+    <TargetOsVersion>6.3</TargetOsVersion>
+    <TargetOsDescription>Windows Phone 8.1</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1a885e9f-d92f-473f-a3ab-e4dfabaa93c3</PackageIdentityName>
+    <IntermediateOutputPath>D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Remote Control.dll">
+      <PackagePath>Remote Control.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\packages\SocketEx.2.0.0\lib\sl4-wp71\socketex.tcpclient.dll">
+      <PackagePath>socketex.tcpclient.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\WriteableBitmapExWinPhone.dll">
+      <PackagePath>WriteableBitmapExWinPhone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\zxing.wp8.0.dll">
+      <PackagePath>zxing.wp8.0.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\ZXingNetMobile.dll">
+      <PackagePath>ZXingNetMobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\zxing.wp8.0.xml">
+      <PackagePath>zxing.wp8.0.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AlignmentGrid.png">
+      <PackagePath>Assets\AlignmentGrid.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\add.png">
+      <PackagePath>Assets\AppBar\add.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\basecircle.png">
+      <PackagePath>Assets\AppBar\basecircle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\cancel.png">
+      <PackagePath>Assets\AppBar\cancel.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\refresh.png">
+      <PackagePath>Assets\AppBar\refresh.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\stop.png">
+      <PackagePath>Assets\AppBar\stop.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\ApplicationIcon.png">
+      <PackagePath>Assets\ApplicationIcon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\BadgeLogo.png">
+      <PackagePath>Assets\BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SquareTile150x150.png">
+      <PackagePath>Assets\SquareTile150x150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SquareTile71x71.png">
+      <PackagePath>Assets\SquareTile71x71.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\WideLogo.png">
+      <PackagePath>Assets\WideLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileLarge.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileMedium.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileMedium.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileSmall.png">
+      <PackagePath>Assets\Tiles\FlipCycleTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\IconicTileMediumLarge.png">
+      <PackagePath>Assets\Tiles\IconicTileMediumLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\IconicTileSmall.png">
+      <PackagePath>Assets\Tiles\IconicTileSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\icon.png">
+      <PackagePath>icon.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

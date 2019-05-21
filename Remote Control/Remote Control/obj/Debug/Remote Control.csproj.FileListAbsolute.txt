@@ -1,0 +1,51 @@
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\ApplicationIcon.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Remote Control.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Remote Control.pdb
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\resources.pri
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\AppxManifest.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Remote Control.build.appxrecipe
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Properties\WMAppManifest.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\AppManifest.xaml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\Remote_Control_Debug_AnyCPU.xap
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\App.g.cs
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.g.resources
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote_Control.Resources.AppResources.resources
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.csproj.GenerateResource.Cache
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.pdb
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\priconfig.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\priconfig.xml.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\layout.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\layout.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\resources.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\resources.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\pri.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\pri.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\qualifiers.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\qualifiers.txt.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\ProjectArchitectures.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\MDILProjectFiles.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\XapCacheFile.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\WriteableBitmapExWinPhone.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\zxing.wp8.0.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\ZXingNetMobile.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\zxing.wp8.0.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.csprojResolveAssemblyReference.cache
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\SynchronizationPage.g.cs
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Debug\socketex.tcpclient.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\MainPage.g.cs
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.csprojResolveAssemblyReference.cache
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\App.g.cs
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\MainPage.g.cs
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\SynchronizationPage.g.cs
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.g.resources
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote_Control.Resources.AppResources.resources
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.csproj.GenerateResource.Cache
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.dll
+E:\Programs\Remote Control\Remote Control\Remote Control\obj\Debug\Remote Control.pdb

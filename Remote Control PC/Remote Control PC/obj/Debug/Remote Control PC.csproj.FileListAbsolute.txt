@@ -1,0 +1,31 @@
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.exe.config
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.exe
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.pdb
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csprojResolveAssemblyReference.cache
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.Properties.Resources.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csproj.GenerateResource.Cache
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.exe
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.pdb
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.QRCodeForm.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.EmptyForm.resources
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.exe.config
+F:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.exe
+F:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.pdb
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.exe.config
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.exe
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Remote Control PC.pdb
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\ProcessRunner.dll
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\ProcessRunner.xml
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csprojAssemblyReference.cache
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.EmptyForm.resources
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.QRCodeForm.resources
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote_Control_PC.Properties.Resources.resources
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csproj.GenerateResource.cache
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csproj.CoreCompileInputs.cache
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.csproj.CopyComplete
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.exe
+E:\Programs\Remote Control\Remote Control PC\Remote Control PC\obj\Debug\Remote Control PC.pdb

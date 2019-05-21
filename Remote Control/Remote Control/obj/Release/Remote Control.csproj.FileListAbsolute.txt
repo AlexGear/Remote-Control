@@ -1,0 +1,41 @@
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\ApplicationIcon.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\Tiles\FlipCycleTileLarge.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\Tiles\FlipCycleTileMedium.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\Tiles\FlipCycleTileSmall.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\Tiles\IconicTileMediumLarge.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Assets\Tiles\IconicTileSmall.png
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Remote Control.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Remote Control.pdb
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\resources.pri
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\AppxManifest.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Remote Control.build.appxrecipe
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Properties\WMAppManifest.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\AppManifest.xaml
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Remote_Control_Release_AnyCPU.xap
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\WriteableBitmapExWinPhone.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\zxing.wp8.0.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\ZXingNetMobile.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\zxing.wp8.0.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\App.g.cs
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote Control.g.resources
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote_Control.Resources.AppResources.resources
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote Control.csproj.GenerateResource.Cache
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote Control.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote Control.pdb
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\priconfig.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\priconfig.xml.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\layout.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\layout.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\resources.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\resources.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\pri.resfiles
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\pri.resfiles.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\qualifiers.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\qualifiers.txt.intermediate
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\ProjectArchitectures.txt
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\MDILProjectFiles.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\XapCacheFile.xml
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\SynchronizationPage.g.cs
+D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\socketex.tcpclient.dll
+D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\MainPage.g.cs

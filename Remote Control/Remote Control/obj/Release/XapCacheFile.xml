@@ -1,0 +1,31 @@
+﻿<xapCache source="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Remote_Control_Release_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="29.07.2015 18:30:35">
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\resources.pri" archivePath="resources.pri" lastWriteTime="29.07.2015 18:30:33" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\Remote Control.dll" archivePath="Remote Control.dll" lastWriteTime="29.07.2015 18:30:33" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\add.png" archivePath="Assets\AppBar\add.png" lastWriteTime="02.02.2015 19:25:14" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\cancel.png" archivePath="Assets\AppBar\cancel.png" lastWriteTime="02.02.2015 19:25:14" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\AppBar\refresh.png" archivePath="Assets\AppBar\refresh.png" lastWriteTime="02.02.2015 19:25:14" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\BadgeLogo.png" archivePath="Assets\BadgeLogo.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Logo.png" archivePath="Assets\Logo.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SplashScreen.png" archivePath="Assets\SplashScreen.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SquareTile150x150.png" archivePath="Assets\SquareTile150x150.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\SquareTile71x71.png" archivePath="Assets\SquareTile71x71.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\StoreLogo.png" archivePath="Assets\StoreLogo.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\WideLogo.png" archivePath="Assets\WideLogo.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="26.07.2015 16:23:49" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="29.07.2015 18:30:34" />
+  <file source="D:\Programs\Remote Control\Remote Control\packages\SocketEx.2.0.0\lib\sl4-wp71\socketex.tcpclient.dll" archivePath="socketex.tcpclient.dll" lastWriteTime="26.07.2015 17:56:20" />
+  <file source="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\WriteableBitmapExWinPhone.dll" archivePath="WriteableBitmapExWinPhone.dll" lastWriteTime="26.07.2015 16:42:31" />
+  <file source="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\zxing.wp8.0.dll" archivePath="zxing.wp8.0.dll" lastWriteTime="26.07.2015 16:42:31" />
+  <file source="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\ZXingNetMobile.dll" archivePath="ZXingNetMobile.dll" lastWriteTime="26.07.2015 16:42:31" />
+  <file source="D:\Programs\Remote Control\Remote Control\packages\ZXing.Net.Mobile.1.4.7.1\lib\wp8\zxing.wp8.0.xml" archivePath="zxing.wp8.0.xml" lastWriteTime="26.07.2015 16:42:31" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\icon.png" archivePath="icon.png" lastWriteTime="27.07.2015 12:56:35" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="29.07.2015 18:30:34" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\obj\Release\MDILProjectFiles.xml" archivePath="MDILProjectFiles.xml" lastWriteTime="29.07.2015 18:30:34" />
+  <file source="D:\Programs\Remote Control\Remote Control\Remote Control\Bin\Release\AppxManifest.xml" archivePath="AppxManifest.xml" lastWriteTime="29.07.2015 18:30:33" />
+</xapCache>
